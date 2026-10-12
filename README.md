@@ -28,8 +28,8 @@ I created a store with clothes because it was the first idea that came to my min
 
 2. How is this project related to STEAM (Science, Technology, Engineering, Art, and Mathematics)? Provide explicit examples from the project and details as possible. 
 
-My project is related to STEAM because I used **Technology** by writing code in Java to create a clothing store. I used **Engineering** by designing classes and connecting them through inheritance. I also used **Mathematics** by working with prices, such as changing the price of a T-shirt.
+My project is related to STEAM because I used **Technology** by writing code in Java to create a clothing store. I used **Engineering** by designing classes and connecting them through inheritance. I also used **Mathematics** by working with prices, such as changing the price of a TShirt.
 
 3. What SLOs did you demonstrate during completing this project?
 
-During this project I demonstrated **Critical Thinking** by figuring out how to use inheritance, constructors and methods to create my program. I also demonstrated that I am **Self-Directed and Goal-Oriented Individual** by organizing my code and working independently.
+During this project I demonstrated **Critical Thinking** by figuring out how to use inheritance, constructors and methods to create my program. I also demonstrated that I am **Self Directed and Goal Oriented Individual** by organizing my code and working independently.
